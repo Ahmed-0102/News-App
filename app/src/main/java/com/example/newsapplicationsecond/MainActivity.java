@@ -16,10 +16,6 @@ import retrofit2.Callback;
 import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
-// api key 2caa2180a4194925ae2e29878f146a0f
-// api GET https://newsapi.org/v2/top-headlines?country=ins&category=business&apiKey=2caa2180a4194925ae2e29878f146a0f
-
-//      http://newsapi.org/v2/top-headlines?country=in?category=science&apiKey=2caa2180a4194925ae2e29878f146a0f
 
 public class MainActivity extends AppCompatActivity implements CategoryRVAdapter.CategoryClickInterface{
 

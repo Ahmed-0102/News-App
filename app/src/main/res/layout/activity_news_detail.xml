@@ -75,15 +75,14 @@
         android:id="@+id/idBtnReadNews"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Read Full News"
-        android:textAllCaps="false"
-        android:background="@color/yellow"
-        app:backgroundTint = "@color/yellow"
-        android:textColor="@color/white"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="20dp"
-        />
+        android:background="@color/yellow"
+        android:text="Read Full News"
+        android:textAllCaps="false"
+        android:textColor="#5D4037"
+        app:backgroundTint="@color/yellow" />
 
 </RelativeLayout>
